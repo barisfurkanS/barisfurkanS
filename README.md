@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="barisfurkanS Spotify Playing" width="350" />](https://open.spotify.com/user/zhjdxv54wy9mqk42rt0gm8sig?si=b67e3996ce454522)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="barisfurkanS Spotify Playing" width="350" />](https://open.spotify.com/user/zhjdxv54wy9mqk42rt0gm8sig?si=c38ec0d54b504ae3)
 
 ### Connect with me:
 

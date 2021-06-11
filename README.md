@@ -1,7 +1,5 @@
 ### Hi there, I'm Barış - mad? [barisfurkanS][Website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.danielcrack.com)
-
 ## I'm a Student, Developer, and me!!
 
 - 🌱 I’m currently learning everything 🤣

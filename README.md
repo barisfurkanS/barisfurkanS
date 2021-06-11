@@ -1,5 +1,6 @@
-![giphy (12)](https://user-images.githubusercontent.com/85743259/121683611-4b43c500-cac6-11eb-8897-29ecf293e917.gif)
+
 ### Hi there 👋
+![eau de parfum (4)](https://user-images.githubusercontent.com/85743259/121683781-8645f880-cac6-11eb-9d55-1bb6bf746f21.gif)
 
 <!--
 **barisfurkanS/barisfurkanS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
